@@ -4,7 +4,7 @@
   "description": "``` npm install --save-dev jest-puppeteer puppeteer jest ```",
   "main": "index.test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
